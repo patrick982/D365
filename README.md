@@ -13,9 +13,6 @@ repository for D365 automation projects
 
 ![image](https://user-images.githubusercontent.com/56114797/111636463-cd3e8d80-87f8-11eb-8a8a-6e565cf3b69c.png)
 
-
-![image](https://user-images.githubusercontent.com/56114797/111635887-41c4fc80-87f8-11eb-8ca3-3d8fb39fe988.png)
-
 ![image](https://user-images.githubusercontent.com/56114797/111635950-50131880-87f8-11eb-94b9-d379f8e9e3be.png)
 
 ![image](https://user-images.githubusercontent.com/56114797/111635961-530e0900-87f8-11eb-9bd4-62ce625f18d2.png)
